@@ -28,15 +28,15 @@ limitations in obstacle detection, meaning it may not avoid obstacles in its pat
 operate on a continuous power supply rather than relying on batteries. Overall, the project aims 
 to enhance firefighting capabilities, reduce human intervention, and mitigate risks associated 
 with fire disasters. The features of the project can be briefly explained as follows:
-- • Flame detection system: Integrating the flame detection sensors to identify and locate 
+- Flame detection system: Integrating the flame detection sensors to identify and locate 
 fire incidents within the robot's operational range (approximately 50cm).
-- • Fire extinguishing procedure: Implementing a submersible water pump for 
+- Fire extinguishing procedure: Implementing a submersible water pump for 
 extinguishing fires, that sprays water for a certain amount of time when a flame is 
 detected within the given range.
-- • Navigation towards the fire: Developing the robot to navigate autonomously within its 
+- Navigation towards the fire: Developing the robot to navigate autonomously within its 
 range, ensuring proper directions (left, right, and straight) in response to fire location.
-- • Actuation mechanism design: Incorporating relays for controlled deployment of water 
+- Actuation mechanism design: Incorporating relays for controlled deployment of water 
 to extinguish flames.
-- • Mobile Application and notification management: Creation of a simple interface using 
+- Mobile Application and notification management: Creation of a simple interface using 
 BLYNK IOT for viewing the intensity of the fire in the app interface and enabling 
 notifications about the fire detection in the rang
