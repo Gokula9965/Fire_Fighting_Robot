@@ -39,4 +39,36 @@ range, ensuring proper directions (left, right, and straight) in response to fir
 to extinguish flames.
 - Mobile Application and notification management: Creation of a simple interface using 
 BLYNK IOT for viewing the intensity of the fire in the app interface and enabling 
-notifications about the fire detection in the rang
+notifications about the fire detection in the range.
+
+## Software & Hardware Requirements:
+### Software Requirements:
+- Arduino IDE
+- Blynk – mobile application 
+### Hardware Requirements:
+- Arduino UNO, nodeMCU-esp8266
+- 3 IR Flame sensors
+- 2 L298N motor driver modules
+- Submersible water pump
+- Single Channel Relay Module (5v)
+- 4 BO Motors (3v -12v)
+- Chassis
+- Adaptor (12v)
+- Switch
+- Jump wires
+- Servo motor
+
+## Functional Diagram
+![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/4af38eff-3d66-4137-ac49-fb684283e812)
+
+## ScreenShots
+![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/aa5a08af-d98a-46c1-a62d-0f4c34110327)
+![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/e1fa2158-2ab6-4e95-a787-42a3133d9169)
+![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/07f40dfc-0ea5-4ccd-8f8d-b5a75553f13f)
+![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/e6c90b3a-5371-4bc4-b2a0-9f73154c1ba5)
+
+## Conclusion
+In conclusion, our firefighting robot project presents a significant advancement in firefighting technology. By deploying an autonomous robot equipped with IoT capabilities, we have addressed the need for swift and efficient responses to fire incidents in hazardous environments. While the robot operates within a predefined boundary range and effectively detects and extinguishes fires within this area, it does have limitations, particularly in obstacle detection. However, despite these challenges, the project marks a crucial step forward in
+ 
+minimizing risks to firefighters' lives and reducing financial losses associated with fire disasters. Moving forward, continued research and development in this field will further enhance the effectiveness and reliability of autonomous firefighting robots, ultimately improving safety and resilience in the face of fire emergencies.
+Future enhancements could focus on improving obstacle detection capabilities to enhance the robot's navigation in complex environments. Incorporating machine learning algorithms could enable the robot to learn from past experiences and optimize its firefighting strategies for even greater efficiency and effectiveness.
