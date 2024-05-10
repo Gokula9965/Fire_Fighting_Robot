@@ -62,7 +62,6 @@ notifications about the fire detection in the range.
 ![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/4af38eff-3d66-4137-ac49-fb684283e812)
 
 ## ScreenShots
-![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/aa5a08af-d98a-46c1-a62d-0f4c34110327)
 ![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/e1fa2158-2ab6-4e95-a787-42a3133d9169)
 ![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/07f40dfc-0ea5-4ccd-8f8d-b5a75553f13f)
 ![image](https://github.com/Gokula9965/Fire_Fighting_Robot/assets/86424600/e6c90b3a-5371-4bc4-b2a0-9f73154c1ba5)
